@@ -5,7 +5,7 @@
         <meta name="description" content="WebTutorial">
         <meta name="keywords" content="HTML,CSS">
         <meta name="author" content="inkwon">
-        <title> All_heuristic 모든 코드 모음 창고 + 블로그 </title>      
+        <title> All_heuristic 모든 코드 모음 창고 </title>      
     </head>
 <body>
 	<h1>## 블로그 링크</h1>
